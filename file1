@@ -1,1 +1,1 @@
-showing the POLL SCM concept for the devops batch
+Hi Guys, i am showing you the POLLING option in Jenkins. This change once it is saved, it will automatically trigger the Jenkins jobs.
