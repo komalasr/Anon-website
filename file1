@@ -1,1 +1,5 @@
-Hi Guys, i am showing you the POLLING option in Jenkins. This change once it is saved, it will automatically trigger the Jenkins jobs.
+Hi Team,
+
+This is an example of POLL SCM in Jenkins
+
+Thank you.
