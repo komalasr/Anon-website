@@ -1,5 +1,7 @@
 Hi Team,
 
-This is an example of POLL SCM in Jenkins
+This is an example of SCM concept in Jenkins.
+
+Now Jenkins will trigger the Maven job automatically on Sep 03rd 2024
 
 Thank you.
